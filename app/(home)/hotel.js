@@ -17,7 +17,7 @@ const Hotel = () => {
       items: [
         {
           id: "101",
-          name: "Paneer 65",
+          name: "פסטה בצלחת",
           price: 50,
           description:
             "קלוריות:",
@@ -31,7 +31,7 @@ const Hotel = () => {
         },
         {
           id: "102",
-          name: "Chilly Chicken (Boneless)",
+          name: "כנפיים בצילי",
           price: 35,
           description:
           "קלוריות:",
@@ -45,7 +45,7 @@ const Hotel = () => {
         },
         {
           id: "103",
-          name: "Spl Veg Biryani",
+          name: "אורז עם תוספות",
           price: 60,
           description: "קלוריות:",
           rating: 4.5,
@@ -58,7 +58,7 @@ const Hotel = () => {
         },
         {
           id: "104",
-          name: "Chilly Paneer",
+          name: "הום פרייז",
           price: 40,
           description: "קלוריות:",
           rating: 3.8,
@@ -71,7 +71,7 @@ const Hotel = () => {
         },
         {
           id: "105",
-          name: "Chicken 65",
+          name: "בורקס פינוקים",
           price: 32.5,
           description: "קלוריות:",
           rating: 4.5,
@@ -90,7 +90,7 @@ const Hotel = () => {
       items: [
         {
           id: "201",
-          name: "Chicken Fried Rice",
+          name: "שניצל וציפס",
           price: 45,
           description:"קלוריות:",
           
@@ -103,19 +103,18 @@ const Hotel = () => {
         },
         {
           id: "202",
-          name: "Egg Fried Rice",
+          name: "בגט שניצל",
           price: 50,
           description: "קלוריות:",
           rating: 4.3,
           ratings: 52,
-          image:
-            "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lv6jl9qdscekjmwkxm9l",
+          image:"https://th.bing.com/th/id/OIP.2R-Hl7m6Teqep2aduBwM_AHaEK?rs=1&pid=ImgDetMain",
           veg: false,
           bestSeller: false,
         },
         {
           id: "203",
-          name: "Veg Fried Rice",
+          name: "צמחוני",
           price: 60,
           description: "קלוריות:",
           rating: 4.6,
@@ -127,7 +126,7 @@ const Hotel = () => {
         },
         {
           id: "204",
-          name: "Jeera Rice",
+          name: "",
           price: 25,
           description: "קלוריות:",
           rating: 4.5,

@@ -12,11 +12,11 @@ const Categories = () => {
   const items = [
     {
       id: "1",
-      name: "משלוחים",
+      name: "המובילים",
     },
     {
       id: "2",
-      name: "קפה מכל הסוגים",
+      name: "קפה",
     },
     {
       id: "3",
@@ -24,7 +24,11 @@ const Categories = () => {
     },
     {
       id: "4",
-      name: "הפסקות איסוף אוכל",
+      name: "הפסקות איסוף",
+    },
+    {
+      id: "5",
+      name: " עסקיות",
     },
   ];
   return (
